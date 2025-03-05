@@ -32,7 +32,12 @@ public class UserService {
 	
 	public User fromDTO(UserDTO dto) {
 		return new User(dto.getId(),dto.getName(),dto.getName());	
-		
+	}
+	
+	public void delete(String id) {
+		//Aqui, aproveito o findById apenas pra lançar a exceção se necessário
+		findById(id);
+		repository.deleteById(id);
 	}
 	
 }
