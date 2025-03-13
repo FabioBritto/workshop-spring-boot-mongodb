@@ -56,7 +56,3 @@ Este projeto foi desenvolvido utilizando as seguintes tecnologias:
 📧 **E-mail:** [fabio.tritono@gmail.com](mailto:fabio.tritono@gmail.com)  
 🐙 **LinkedIn:** [linkedin.com/in/fabio-britto-399223252](https://www.linkedin.com/in/fabio-britto-399223252/)  
 
----
-
-Este README fornece uma visão geral clara e estruturada do projeto, facilitando a compreensão do seu funcionamento. Caso precise de alguma adaptação ou melhoria, me avise!
-
